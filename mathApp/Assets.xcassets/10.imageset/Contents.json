@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Squidward is your doll in the middle finger says \"F*ck you\" | SpongeBob SquarePants.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
